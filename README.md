@@ -11,4 +11,6 @@ Login and Registration are done using POST method in Postman.
 
 For admin to access bakery "http://127.0.0.1:8000/api/v1/bakery/" , here he can get, delete, modify, add item, delete item for bakery.
 
+TO access SuperUser username = "shivam", Password = "123".
+
 For customer url "http://127.0.0.1:8000/api/v1/customer/" .
